@@ -1,9 +1,9 @@
-﻿<Application x:Class="DatabaseDocumentGenerator.Wpf.App"
+﻿<Application x:Class="DatabaseDocumentGenerator.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:DatabaseDocumentGenerator.Wpf"
-             StartupUri="MainWindow.xaml">
+             xmlns:local="clr-namespace:DatabaseDocumentGenerator"
+             StartupUri="Views/MainWindow.xaml">
     <Application.Resources>
-         
+
     </Application.Resources>
 </Application>
